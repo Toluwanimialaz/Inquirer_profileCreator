@@ -1,0 +1,20 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "toluwanimialaz",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.2.1",
+    "jest": "^29.7.0"
+  }
+}
